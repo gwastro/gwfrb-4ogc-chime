@@ -16,6 +16,10 @@ We analyze gravitational-wave candidates and non-repeating FRBs from 2019 April 
 The most significant coincident candidate has a false alarm rate of 0.29 per observation time, which is consistent with a null observation.
 The null results imply at most $\mathcal{O}(0.01)\%$ - $\mathcal{O}(1)\%$ of FRBs are produced from the BNS mergers.
 
+## Paper Link
+
+[Arxiv Preprint](https://arxiv.org/abs/2203.17222)
+
 ## License and Citation
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-sa/3.0/us/88x31.png "Creative Commons License")
