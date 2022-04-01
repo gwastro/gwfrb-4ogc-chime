@@ -23,3 +23,15 @@ The null results imply at most $\mathcal{O}(0.01)\%$ - $\mathcal{O}(1)\%$ of FRB
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 United States License](http://creativecommons.org/licenses/by-sa/3.0/us/).
 
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
+
+```
+@article{Wang:2022ryc,
+    author = "Wang, Yi-Fan and Nitz, Alexander H.",
+    title = "{Search for Coincident Gravitational Wave and Fast Radio Burst Events from 4-OGC and the First CHIME/FRB Catalog}",
+    eprint = "2203.17222",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.HE",
+    month = "3",
+    year = "2022"
+}
+```
