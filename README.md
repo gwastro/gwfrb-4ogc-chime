@@ -31,11 +31,15 @@ We encourage use of these data in derivative works. If you use the material prov
 ```
 @article{Wang:2022ryc,
     author = "Wang, Yi-Fan and Nitz, Alexander H.",
-    title = "{Search for Coincident Gravitational Wave and Fast Radio Burst Events from 4-OGC and the First CHIME/FRB Catalog}",
+    title = "{Search for Coincident Gravitational-wave and Fast Radio Burst Events from 4-OGC and the First CHIME/FRB Catalog}",
     eprint = "2203.17222",
     archivePrefix = "arXiv",
     primaryClass = "astro-ph.HE",
-    month = "3",
+    doi = "10.3847/1538-4357/ac82ae",
+    journal = "Astrophys. J.",
+    volume = "937",
+    number = "2",
+    pages = "89",
     year = "2022"
 }
 ```
